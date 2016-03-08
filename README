@@ -1,0 +1,9 @@
+this is simple bash script to monitoring available server on or off, result report will delivery to your email, take a coffe and then do it :
+
+1. Download script 
+2. write of a file host.txt with ip address your server
+3. create blank a file and save with name hasil.txt
+4. Configure your cronjob
+
+
+Thanks
